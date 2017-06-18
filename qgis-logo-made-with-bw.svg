@@ -158,5 +158,5 @@
      id="text3538" /><g
      transform="matrix(0.37564322,0,0,0.37564322,134.84666,73.040001)"
      id="g4242"
-     style="fill:#ffffff" />
+     fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1" />
 </svg>
