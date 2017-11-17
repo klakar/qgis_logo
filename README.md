@@ -18,5 +18,5 @@ My work in this repository is built on the QGIS logo and I will not **add** any 
 
 ![QGIS Sverige - .se](https://cdn.rawgit.com/klakar/qgis_logo/9a5d114a/qgis.se-logo-1.svg)
 
-![QGIS Sverige - Option1](https://cdn.rawgit.com/klakar/qgis_logo/master/qgis-swe-flag.svg)
-![QGIS Sverige - Option2](https://cdn.rawgit.com/klakar/qgis_logo/master/qgis-swe-simple.svg) 
+![QGIS Sverige - Option1](https://rawgit.com/klakar/qgis_logo/master/qgis-swe-flag.svg)
+![QGIS Sverige - Option2](https://rawgit.com/klakar/qgis_logo/master/qgis-swe-simple.svg) 
