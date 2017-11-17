@@ -9,7 +9,7 @@ My work in this repository is built on the QGIS logo and I will not **add** any 
 # Example
 ![Made with QGIS - b/w](https://cdn.rawgit.com/klakar/qgis_logo/9a5d114a/qgis-logo-made-with-bw.svg)
 
-
+![Made with QGIS - color](https://rawgit.com/klakar/qgis_logo/master/qgis-logo-made-with-color.svg)
 
 # QGIS Sverige
 ![QGIS Sverige - Liten Sverige](https://cdn.rawgit.com/klakar/qgis_logo/9a5d114a/qgis.se-logo-3.svg)
