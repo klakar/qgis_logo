@@ -12,7 +12,12 @@ My work in this repository is built on the QGIS logo and I will not **add** any 
 ![Made with QGIS - color](https://rawgit.com/klakar/qgis_logo/master/qgis-logo-made-with-color.svg)
 
 # QGIS Sverige
+![QGIS Sverige - Officiell](https://cdn.rawgit.com/klakar/qgis_logo/master/qgis-shadow-swe-flag.svg)
+
 ![QGIS Sverige - Liten Sverige](https://cdn.rawgit.com/klakar/qgis_logo/9a5d114a/qgis.se-logo-3.svg)
 
 ![QGIS Sverige - .se](https://cdn.rawgit.com/klakar/qgis_logo/9a5d114a/qgis.se-logo-1.svg)
 
+![QGIS Sverige - Option1](https://cdn.rawgit.com/klakar/qgis_logo/master/qgis-swe-flag.svg)
+
+![QGIS Sverige - Option2](https://cdn.rawgit.com/klakar/qgis_logo/master/qgis-swe-simple.svg)
